@@ -25,7 +25,7 @@ I am a self-taught web developer and currently focusing on continuous self-impro
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 
-### What I'm hoping to learn next...
+### What I'm currently learning...
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
@@ -35,6 +35,6 @@ I am a self-taught web developer and currently focusing on continuous self-impro
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23000000.svg?style=for-the-badge&logo=godot-engine)
 
-### You can also contact me at...
+### Please feel free to contact me at:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ygor-dimas/)
