@@ -1,4 +1,4 @@
-# Can we build something together? ⚒️
+# Hey, you. Can we build something together? 👷⚒️
 
 I am a self-taught web developer and currently focusing on continuous self-improvement in the hopes of becoming a better professional (and student) each day through gathering a substantial range of theoretical knowledge while applying it through a hands-on approach to learning, building projects that are both challenging and rewarding, and that allow me to have a better understanding of the inner workings of what it means to build practical — and most importantly — functional applications.
 
