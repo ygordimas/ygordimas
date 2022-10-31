@@ -37,9 +37,4 @@ I'm a self-taught web developer and currently focusing on continuous self-improv
 
 ***
 
-### Please feel free to contact me at:
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ygor-dimas/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ygordimas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
