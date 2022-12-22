@@ -24,6 +24,7 @@ I'm a self-taught web developer and currently focusing on continuous self-improv
 
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=plastic)
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=plastic)
+![Three.js Badge](https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff&style=plastic)
 
 ***
 
@@ -32,7 +33,6 @@ I'm a self-taught web developer and currently focusing on continuous self-improv
 ![Next.js Badge](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=plastic)
 ![Redux Badge](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff&style=plastic)
 ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=plastic)
-![Three.js Badge](https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff&style=plastic)
 ![Godot Engine Badge](https://img.shields.io/badge/Godot%20Engine-478CBF?logo=godotengine&logoColor=fff&style=plastic)
 
 ***
